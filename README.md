@@ -32,6 +32,10 @@ Archivos para la generación de estructuras de grafos y la obtención de diversa
 
 **World_map_graph_construction.ipynb**: Construcción del grafo general sobre el mapa mundial en varios pasos.
 
+## Ejemplo: World_map_graph
+![Map_Image](/readme_images/7_map.png)
+
+
 ## Datasets:
 Todos los datasets necesarios para a ejecución de los notebooks se encuentran en el Nas (Volumen 1)/carpeta **RASFF_Social_Network_Analysis**.
 
